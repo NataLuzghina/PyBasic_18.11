@@ -13,5 +13,3 @@ elif operator == '/':
     print(number_1 / number_2)
 else:
     print('Какая-то ошибка')
-
-
